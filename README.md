@@ -1,2 +1,2 @@
 # dat-route
-a route for the i2p network
+a route for the dat network
